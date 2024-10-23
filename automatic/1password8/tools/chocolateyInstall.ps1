@@ -5,9 +5,9 @@ $packageArgs = @{
   fileType       = 'msi'
   softwareName   = '1Password 8'
 
-  checksum       = '2842A176BD3505033578FDC190D663EB947F21005ECD9CB8169FFC27476D08BA'
+  checksum       = '27d9e26220894b688362daebc9e2af49901199a783b6c5312527b7115acd9e5c'
   checksumType   = 'sha256'
-  url            = 'https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.27.msi'
+  url            = 'https://c.1password.com/dist/1P/win8/1PasswordSetup-8.10.32.msi'
 
   silentArgs     = "/qn"
   validExitCodes = @(0)
